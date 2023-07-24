@@ -299,7 +299,7 @@
     .contents.signature-main .magazine_list > li:nth-child(4n - 2) {margin-left:0;}
     .contents.signature-main .magazine_list > li:nth-of-type(n + 5) {margin-top:0;}
     .contents.signature-main .magazine_list > li:nth-child(2n) {margin-left:12px;}
-    .contents.signature-main .magazine_list > li:nth-of-type(n + 3) {margin-top:48px;}
+    .contents.signature-main .magazine_list > li:nth-of-type(n + 3) {margin-top:24px;}
     .contents.signature-main .magazine_list .text_area {padding:16px 16px 24px;}
     .contents.signature-main .magazine_list .flag {margin-bottom: 8px;}
     .contents.signature-main .magazine_list .flag span {font-size:11px; line-height:12px;}

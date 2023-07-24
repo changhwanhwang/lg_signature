@@ -1,0 +1,17 @@
+
+
++ WCMS DEV
+URL : https://cmsdev50.lge.co.kr/admin/common/login.lg?SSL=Y
+아이디 : jeji
+패스워드 : i8u7y6t5##
+WCMS 디렉토리 경로 : //ec2-lgecokr-dev-ts/default/main/LGE/KR/WORKAREA/wa/kr/main/signature
+test : https://wwwdev50.lge.co.kr/lg-signature/info
+
++ WCMS STG
+URL : https://cms50.lge.co.kr/admin/common/login.lg?SSL=Y
+test : https://wwwstg.lge.co.kr/lg-signature/info
+
+
++ design link
+URL : https://xd.adobe.com/view/4981ae55-0851-4659-bec9-1f7ee2f0f890-1cd2/
+URL : https://docs.google.com/presentation/d/1VBF3pNWGbZ6yeaynJEm5gthvRTDi_LT-rmCvudBj3eM/edit#slide=id.g255c1e6f243_3_137

@@ -315,7 +315,7 @@
     
     /* brand-cooperation */
     .contents.signature-main .signature-section-wrap.brand-cp {padding: 24px 0 0;}
-    .contents.signature-main .signature-section-wrap.brand-cp .section {padding: 48px 16px;}
+    .contents.signature-main .signature-section-wrap.brand-cp .section {padding: 24px 16px 48px;}
     .contents.signature-main .brand_list_wrap {border: 0;}
     .contents.signature-main .brand_list_bar_ver {display: none;}
     .contents.signature-main .brand_list li {padding-bottom: 12px; width: 100%; border: 0;}

@@ -315,7 +315,7 @@
     
     /* brand-cooperation */
     .contents.signature-main .signature-section-wrap.brand-cp {padding: 24px 0 0;}
-    .contents.signature-main .signature-section-wrap.brand-cp .section {padding: 24px 16px 48px;}
+    .contents.signature-main .signature-section-wrap.brand-cp .section {padding: 24px 16px;}
     .contents.signature-main .brand_list_wrap {border: 0;}
     .contents.signature-main .brand_list_bar_ver {display: none;}
     .contents.signature-main .brand_list li {padding-bottom: 12px; width: 100%; border: 0;}
@@ -346,6 +346,7 @@
 	.contents.signature-main .section.master .master-slide-wrap .slide-wrap {padding-bottom: 28px;}
 	.contents.signature-main .section.master .master-slide-wrap .slide-wrap .slide-controls .btn-arrow {width: 40px; height: 40px;}
 
+    .contents.signature-main .signature-section-wrap.brand-cp .section.artist {padding-bottom: 48px;}
     .contents.signature-main .artist_list_wrap {margin-top: 16px; padding: 0 55px;}
     .contents.signature-main .artist_list {width: 100%; margin-bottom: 40px !important;}
     .contents.signature-main .artist_list:last-child {margin-bottom: 0 !important;}

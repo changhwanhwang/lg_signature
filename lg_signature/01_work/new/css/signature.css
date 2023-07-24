@@ -206,7 +206,7 @@
 .contents.signature-main .artist_img.mo img {display: none;}
 
 .contents.signature-main .section.artist {max-width: 100% !important; width: 100%; background-color: #1F1F1F;}
-.contents.signature-main .section.artist .artist_wrap {max-width: 1380px; margin: 0 auto;}
+.contents.signature-main .section.artist .artist_wrap {max-width: 1146px; margin: 0 auto;}
 
 /* .contents.signature-main .sc6_con3_link {display: block; width: 100%; position: relative;overflow: hidden;} */
 
@@ -303,7 +303,7 @@
     .contents.signature-main .magazine_list .text_area {padding:16px 16px 24px;}
     .contents.signature-main .magazine_list .flag {margin-bottom: 8px;}
     .contents.signature-main .magazine_list .flag span {font-size:11px; line-height:12px;}
-    .contents.signature-main .magazine_list .tit {font-size:14px; line-height:21px;}
+    .contents.signature-main .magazine_list .tit {min-height: 40px; font-size:14px; line-height:21px;}
     .contents.signature-main .magazine_list .tex {margin-top:8px;}
     .contents.signature-main .magazine_list .tex span {display: block; font-size:12px; line-height:13px; margin-bottom: 4px;}
     .contents.signature-main .magazine_list .tex span:not(:last-child) {position:relative; padding-right:7px; margin-right:6px;}
@@ -315,7 +315,7 @@
     
     /* brand-cooperation */
     .contents.signature-main .signature-section-wrap.brand-cp {padding: 24px 0 0;}
-    .contents.signature-main .signature-section-wrap.brand-cp .section {padding: 25px 16px;}
+    .contents.signature-main .signature-section-wrap.brand-cp .section {padding: 48px 16px;}
     .contents.signature-main .brand_list_wrap {border: 0;}
     .contents.signature-main .brand_list_bar_ver {display: none;}
     .contents.signature-main .brand_list li {padding-bottom: 12px; width: 100%; border: 0;}

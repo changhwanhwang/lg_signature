@@ -73,7 +73,7 @@
 .contents.signature-main .magazine_list > li:nth-child(4n - 1),
 .contents.signature-main .magazine_list > li:nth-child(4n - 2) {margin-left:24px;}
 .contents.signature-main .magazine_list > li:nth-of-type(n + 5) {margin-top:80px;}
-.contents.signature-main .magazine_list > li > a {display:block; height:100%; background-color:#000; color:#fff;}
+.contents.signature-main .magazine_list > li > a {display:block; height:100%; background-color:#000; color:#fff; cursor: pointer;}
 /* .contents.signature-main .magazine_list > li > a[href] .img::after {
     content:'';
     position:absolute;

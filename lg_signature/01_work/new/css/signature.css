@@ -281,12 +281,11 @@
     .contents.signature-main .visual_slide .slider-nav {margin-top:12px}
     .contents.signature-main .visual_slide .slider-nav .slide-wrap.carousel-type {margin:0;}
     .contents.signature-main .visual_slide .slider-nav .slide-wrap.carousel-type .slide-content::after {content:''; position:absolute; top:0; right:0; width:56px; height:100%; background:linear-gradient(270deg, #000, rgba(0, 0, 0, 0));}
+    .contents.signature-main .visual_slide .slider-nav .slide-wrap.carousel-type .slide-content::before {content:''; position:absolute; top:0; left: 0; width:56px; height:100%; background:linear-gradient(450deg, #000, rgba(0, 0, 0, 0)); z-index: 1;}
     .contents.signature-main .visual_slide .slider-nav .slide-wrap.carousel-type .slide-conts {width:128px; margin-right:12px; transform:translateX(0px);}
     .contents.signature-main .visual_slide .slider-nav .slide-wrap .slide-controls .btn-arrow {transform: translateY(-50%);}
-    .contents.signature-main .visual_slide .slider-nav .slide-wrap .slide-controls .btn-arrow.prev {display:none !important;}
     .contents.signature-main .visual_slide .slider-nav .slide-wrap .slide-controls .btn-arrow.next {right:0;}
     .contents.signature-main .visual_slide > p {font-size:12px; line-height:18px;}
-
 
 
 
